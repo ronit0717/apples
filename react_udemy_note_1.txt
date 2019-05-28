@@ -1,0 +1,11 @@
+=> npm install -g create-react-app
+g means global, this command installs create-react-app globally in system
+
+=> create-react-app .
+Creates a react boiler plate in the same folder
+
+=> create-react-app projectName
+Creates a folder called projectName, and installs boiler plate in it
+
+=> npm start
+starts the react application
