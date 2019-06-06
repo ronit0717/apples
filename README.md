@@ -3,6 +3,7 @@
 This project was done as part of the Udemy course titled: The complete react fullstack course covering React, Node js, MongoDB, Firebase, Webpack and ES6
 
 Course Link: https://www.udemy.com/the-complete-react-fullstack-course/
+My Notes available in : https://github.com/ronit0717/apples/tree/master/myNotes
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
