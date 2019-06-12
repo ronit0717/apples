@@ -13,10 +13,15 @@ class App extends Component {
     }
 
     render(){
+        
         return (
             <div>
                 <Header/>
-                <NewsList news = {this.state.news}/>
+                <NewsList news = {this.state.news}>
+                    <h3 style={{textAlign:'center'}}>
+                        Hello Apples
+                    </h3>
+                </NewsList>
             </div>
         )
     }
