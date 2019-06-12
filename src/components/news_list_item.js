@@ -1,9 +1,7 @@
 import React from 'react';
-import classes from '../css/styles.css'
+import classes from '../css/styles.module.css'
 
 const NewsItem = ({item}) => {
-
-    
 
     return(
         <div className={classes.news_item}> 

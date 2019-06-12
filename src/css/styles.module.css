@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    font-style:'Roboto'; 
 }
 
 header {
@@ -18,5 +19,7 @@ header input {
 }
 
 .news_item {
-    background: #ffff00;
+    padding: 20px;
+    box-sizing: border-box;
+    border-bottom: 1px solid grey;
 }
