@@ -2,6 +2,8 @@
 
 This project was done as part of the Udemy course titled: The complete react fullstack course covering React, Node js, MongoDB, Firebase, Webpack and ES6
 
+This project covers the basics of React. The application displays a list of news fetched from a JSON file, and filters them based on the keywords passed in the header search bar.
+
 Course Link: https://www.udemy.com/the-complete-react-fullstack-course/
 
 My Notes available in : https://github.com/ronit0717/apples/tree/master/myNotes
