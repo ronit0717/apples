@@ -5,12 +5,14 @@ body {
 header {
     background: #008890;
     text-align: center;
+    padding: 25px;
 }
 
 .logo {
     color: #ffffff;
     font-size: 40px;
     font-family: 'Open Sans', sans-serif;
+    padding: 10px;
 }
 
 header input {
